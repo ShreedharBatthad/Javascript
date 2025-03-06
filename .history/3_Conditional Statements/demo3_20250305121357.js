@@ -1,6 +1,6 @@
 
 console.log("if ....else if....else")
-let amounttransfer = -1
+let amounttransfer = 0
 
 if (amounttransfer < 0) {
     console.log("Insufficient balance");
